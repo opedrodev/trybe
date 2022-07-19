@@ -35,12 +35,12 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
 ### Bloco 03: Introdução à HTML e CSS
 
- - [ ] **01**: Introdução - HTML & CSS
- - [ ] **01**: HTML & CSS - Estruturas de página
- - [ ] **02**: HTML & CSS - Primeiros passos em CSS
- - [ ] **03**: HTML & CSS - Seletores e posicionamento
- - [ ] **04**: HTML Semântico
- - [ ] **05**: Projeto - Lessons Learned
+ - [x] **01**: Introdução - HTML & CSS
+ - [x] **01**: HTML & CSS - Estruturas de página
+ - [x] **02**: HTML & CSS - Primeiros passos em CSS
+ - [x] **03**: HTML & CSS - Seletores e posicionamento
+ - [x] **04**: HTML Semântico
+ - [x] **05**: Projeto - Lessons Learned
 
 **Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
